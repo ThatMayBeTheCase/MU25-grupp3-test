@@ -1,23 +1,19 @@
 # Arbetsöverenskommelse (Working Agreement)
 
-**Team:** <Grupp X>  
-**Repo:** <länk till GitHub-repo>  
-**Trello-bräda:** <länk till Trello> (⟶ läraren har läsrätt)
+**Team:** <Grupp 3>  
+**Repo:** <länk till [GitHub-repo](https://github.com/ThatMayBeTheCase/mu25-grupp-3-studentkatalog)>  
+**Trello-bräda:** <länk till [Trello](https://trello.com/b/BOxc48Xt/mu25-grupp3)> (⟶ läraren har läsrätt)
 
 ## 1) Tillgänglighet & kommunikation
-- **Kärntider:** <ex. vardagar 09–15> (synka dagligen 15 min).
-- **Kanaler:** <Slack/Discord/e-post>. Notifiera frånvaro i <kanal>.
+- **Kärntider:** <vardagar 09–15> (synka dagligen varannan timme).
+- **Kanaler:** <Discord>. Notifiera frånvaro i <Rum 3 Examination>.
 - **Svarstid:** vardagar 09–17 – svar inom **2h**.
-- **Möten:** planering mån, dagliga standups tis–tors, retro fre.
+- **Möten:** planering tis, dagliga standups tis–tors, retro fre.
 
 ## 2) Roller
-- **PO:** <namn> (kundperspektiv, prioriterar).
-- **SM:** roterande (ceremonier, hindrar slöseri).  
-  **Rotationstabell:**  
-  | Datum | Scrum Master |
-  |-------|--------------|
-  | …     | …            |
-- **Developers:** <namn, namn, namn>
+- **PO:** Timmy (kundperspektiv, prioriterar).
+- **SM:** Moody ()roterande (ceremonier, hindrar slöseri).  
+- **Developers:** <Sofia, Petrit>
 
 ## 3) Bräda & WIP
 Kolumner: **Backlog → Selected → Doing (WIP=2) → Review → Done**  
@@ -47,6 +43,6 @@ En story är “Done” när:
 
 ## 7) Beslut & konflikter
 - Tekniska beslut: kort synk i standup → beslut i PR/issue-kommentar.
-- Oenighet: diskutera i teamkanal → SM faciliterar → PO bryter dödläge vid behov.
+- Oenighet: diskutera i Discord Rum 3 Examination → SM faciliterar → PO bryter dödläge vid behov.
 
 _Senast uppdaterad: YYYY-MM-DD_
