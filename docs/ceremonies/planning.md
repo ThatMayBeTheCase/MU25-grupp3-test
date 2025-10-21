@@ -9,8 +9,9 @@
 ## Valda stories
 | ID        |      Titel |      SP |    Ansvarig |        Notering |
 |-----------|------------|---------|-------------|-----------------|
-| #US1-US5  |            |  2-3    |             |                 |
+| #US1  | Visa studen lista| 2  |  TIMMY      |   Grund Html        |
 
 **DoR bekräftad?:** Ja 
 **Risker/beroenden:** Risk för merge-konflikter 
-**Kapacitet (persondagar):** … / **WIP:** 2 i Doing
+**Kapacitet (persondagar):** 4 personer 3 dagar
+**WIP:** 2 i Doing
