@@ -1,14 +1,16 @@
 # Sprint Planning – Protokoll
 
-**Sprint:** <v.xx>  **Period:** <YYYY-MM-DD → YYYY-MM-DD>  
-**Sprintmål (1–2 meningar):**  
+**Sprint:** <v.43> 
+**Period:** <2025-10-21 → 2025-10-24>  
+**Sprintmål:** Bygga första versionen av studentkatalogen
+
 …
 
 ## Valda stories
-| ID | Titel | SP | Ansvarig | Notering |
-|----|-------|----|----------|---------|
-| #  |       |    |          |         |
+| ID        |      Titel |      SP |    Ansvarig |        Notering |
+|-----------|------------|---------|-------------|-----------------|
+| #US1-US5  |            |  2-3    |             |                 |
 
-**DoR bekräftad?:** Ja / Nej  
-**Risker/beroenden:** …  
+**DoR bekräftad?:** Ja 
+**Risker/beroenden:** Risk för merge-konflikter 
 **Kapacitet (persondagar):** … / **WIP:** 2 i Doing
