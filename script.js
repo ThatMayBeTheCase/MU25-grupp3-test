@@ -5,7 +5,7 @@ const Katalog = [
 ];
 
 const ul = document.getElementById("student-lista");
-const addStudentBtn = document.getElementById("addStudentBtn"); // 🔹 Ny rad
+const addStudentBtn = document.getElementById("addStudentBtn");
 
  function renderList() {
     ul.innerHTML = ""; // töm listan först
@@ -23,10 +23,10 @@ const addStudentBtn = document.getElementById("addStudentBtn"); // 🔹 Ny rad
     });
   }
 
-// 🔹 Visa listan första gången
+//  Visa listan första gången
 renderList();
 
-// 🔹 Lägg till en ny hårdkodad student när man klickar på knappen
+//  Lägg till en ny hårdkodad student när man klickar på knappen
 addStudentBtn.addEventListener("click", () => {
   const newStudent = { name: "Lisa", age: 19, active: true }; // ny student
   Katalog.push(newStudent); // lägg till i arrayen
