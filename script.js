@@ -1,24 +1,27 @@
 const Katalog = [
-  { name: "Kalle", age: 20, active: true },
-  { name: "Pelle", age: 22, active: false },
-  { name: "Erik", age: 21, active: true },
+  { name: "Kalle Anderson", age: 20, active: true },
+  { name: "Pelle Larsson", age: 22, active: false },
+  { name: "Erik Svensson", age: 21, active: true },
 ];
 
 const ul = document.getElementById("student-lista");
 const addStudentBtn = document.getElementById("addStudentBtn"); // 🔹 Ny rad
 
-// 🔹 Funktion för att visa alla studenter
-function renderList() {
-  ul.innerHTML = ""; // töm listan först
-  Katalog.forEach(({ name, age }) => {
-    const li = document.createElement("li");
-    li.innerHTML = `
-      <span class="name">${name}</span>
-      <span class="age">(${age})</span>
-    `;
-    ul.appendChild(li);
-  });
-}
+ function renderList() {
+    ul.innerHTML = ""; // töm listan först
+    Katalog.forEach(({ name, age, active }) => {
+      const li = document.createElement("li");
+      li.className = active ? 'active-student' : 'inactive-student';
+      li.innerHTML = `
+        <span class="name">${name}</span>
+        <span class="age">(${age})</span>
+        <span class="status ${active ? 'active' : 'inactive'}">
+          ${active ? 'Aktiv' : 'Inaktiv'}
+        </span>
+      `;
+      ul.appendChild(li);
+    });
+  }
 
 // 🔹 Visa listan första gången
 renderList();
