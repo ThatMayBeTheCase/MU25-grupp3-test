@@ -11,7 +11,7 @@ Katalog.forEach(({ name, age }) => {
   li.innerHTML =
   `
     <span class="name">${name}</span>
-    <span class="age">(${age})</span>
+    <span class="age">Age ${age}</span>
   `;
   ul.appendChild(li);
 });
