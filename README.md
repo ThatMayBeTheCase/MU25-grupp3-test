@@ -11,9 +11,9 @@ En enkel webbapp där användare kan se en lista över studenter, ålder och sta
 
 ## Demo / Skärmdumpar
 <!-- kanske bild här -->
-<!--  GitHub Pages-länk -->
+[Student Katalogen Demo](https://thatmaybethecase.github.io/mu25-grupp-3-studentkatalog/)  
 
-## Kom igång
+## Kom igång (Om man vill köra självtext)
 ### Krav
 - Webbläsare (Chrome/Firefox/Edge)
 - (Valfritt) Node.js
