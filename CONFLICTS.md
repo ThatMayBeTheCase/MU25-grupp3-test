@@ -2,9 +2,9 @@
 
 ### Moody
 - <vad var konflikten?>
+Jag och Sofia gjort lite ändring på CSS kod för att justera placeringen på Sorting-bar.
 - <Hur löste du det?>
-
----
+Jag kodkännde och sparade Sofias ändring för att den gav bättre resultat.
 
 ### Sofia
 - <vad var konflikten?>
