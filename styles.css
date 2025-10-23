@@ -20,11 +20,12 @@
 /* Status bar / sorting buttons */
 .sorting-btns {
     display:flex;
-    gap: 10rem;
+    gap: 135px;
     font-weight:600;
     background-color: #f8f9fa;
     padding: 10px;
     border-radius: 5px;
+    margin-left: 38px;
 }
 .sorting-btns button {
     background:none;
