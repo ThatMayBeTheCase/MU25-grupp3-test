@@ -28,7 +28,7 @@ renderList();
 
 //  Lägg till en ny hårdkodad student när man klickar på knappen
 addStudentBtn.addEventListener("click", () => {
-  const newStudent = { name: "Lisa", age: 19, active: true }; // ny student
+  const newStudent = { name: "Lisa Persson", age: 64, active: true }; // ny student
   Katalog.push(newStudent); // lägg till i arrayen
   renderList(); // rita om listan
 });
