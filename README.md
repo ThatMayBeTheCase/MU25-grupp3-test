@@ -4,8 +4,8 @@ En enkel webbapp där användare kan se en lista över studenter, ålder och sta
 
 ## Roller
 - PO: Timmy (kundperspektiv, prioriterar).
-- SM: Moody ()roterande (ceremonier, hindrar slöseri).
-- Developers: Sofia, Petrit  
+- SM: Moody (roterande (ceremonier, hindrar slöseri).
+- Developers: Sofia, Petrit, roterande
  Board: [Trello, grupp 3](https://trello.com/b/BOxc48Xt/mu25-grupp3)  
 
 
